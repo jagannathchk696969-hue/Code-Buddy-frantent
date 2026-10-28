@@ -114,3 +114,4 @@ Optimized assets will be generated in `dist/`.
 ## 📄 License
 
 MIT License. Built for Hacktoberfest.
+
